@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = chbrotons@hotmail.com
+	name = charlesbrotons
